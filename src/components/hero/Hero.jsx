@@ -201,7 +201,7 @@ const Hero = () => {
       <div className="bg">
         {/* 3d */}
         <Canvas>
-          <Suspense fallback="loading...">
+          <Suspense fallback="loading.....">
             <Shape />
           </Suspense>
         </Canvas>
