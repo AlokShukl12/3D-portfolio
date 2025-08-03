@@ -28,30 +28,6 @@ A visually stunning and interactive portfolio website built with React, Vite, Th
 - [Canvas](https://www.npmjs.com/package/canvas) (if used for specific effects)
 - [three-mesh-bvh](https://github.com/gkjohnson/three-mesh-bvh)
 
----
-
-## 📁 Folder Structure
-
-```
-3D-Portfolio/
-├── public/             # Static assets (images, 3D models)
-├── src/
-│   ├── components/     # React components
-│   │   ├── hero/       # Hero section components
-│   │   ├── services/   # Services section components
-│   │   ├── portfolio/  # Portfolio section components
-│   │   ├── contact/    # Contact form components
-│   │   └── ...         # Other components
-│   ├── App.jsx         # Main app component
-│   ├── main.jsx        # Entry point
-│   └── index.css       # Global styles
-├── .env                # Environment variables (ignored by git)
-├── .gitignore
-├── package.json
-├── vite.config.js
-├── vercel.json         # Vercel configuration file
-└── README.md
-```
 
 ---
 
