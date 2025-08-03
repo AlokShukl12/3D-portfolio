@@ -1,6 +1,6 @@
 // import ComputerModelContainer from "./computer/ComputerModelContainer";
 import ConsoleModelContainer from "./console/ConsoleModelContainer";
-import "./services.css";
+import "./Services.css";
 import { motion, useInView } from "motion/react";
 import { useRef, useState } from "react";
 import Counter from "./Counter";
