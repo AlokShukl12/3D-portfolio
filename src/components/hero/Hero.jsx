@@ -57,9 +57,9 @@ const Hero = () => {
           animate="animate"
           className="awards"
         >
-          <motion.h2 variants={awardVariants}>React Developer</motion.h2>
+          <motion.h2 variants={awardVariants}>MERN Developer</motion.h2>
           <motion.p variants={awardVariants}>
-            I create stunning and interactive web applications using React.js.
+            I create stunning and interactive web applications using MERN(FULL-STACK).
           </motion.p>
           {/* <motion.div variants={awardVariants} className="awardList">
             <motion.img variants={awardVariants} src="/award1.png" alt="" />
@@ -113,7 +113,7 @@ const Hero = () => {
           animate="animate"
           className="follow"
         >
-          <motion.a variants={followVariants} href="https://drive.google.com/file/d/1vVtRs2jyoOCpDzswQwplGZCxuf6gY1fV/view?usp=sharing">
+          <motion.a variants={followVariants} href="https://drive.google.com/file/d/1n9MfD0qgemJhflZZDL-7bD0tu3cZC2oC/view?usp=sharing">
             <img src="/resume.png" alt="" />
           </motion.a>
           <motion.a variants={followVariants} href="https://www.linkedin.com/in/alokshukla895776/">
