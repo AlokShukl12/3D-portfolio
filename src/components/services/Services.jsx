@@ -48,7 +48,7 @@ const services = [
   {
     id: 2,
     img: "/service2.png",
-    title: "Project Experience",
+    title: "Work Experience",
     counter: 3,
   },
   {
