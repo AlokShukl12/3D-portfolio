@@ -48,14 +48,14 @@ const services = [
   {
     id: 2,
     img: "/service2.png",
-    title: "Product Design",
-    counter: 23,
+    title: "Project Experience",
+    counter: 3,
   },
   {
     id: 3,
     img: "/service3.png",
-    title: "Branding",
-    counter: 46,
+    title: "Certifications",
+    counter: 6,
   },
 ];
 
