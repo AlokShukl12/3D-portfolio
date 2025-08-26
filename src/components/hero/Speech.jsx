@@ -11,7 +11,7 @@ const Speech = () => {
         1000,
         'Hello, I am Alok Shukla.',
         1000, 
-        'I am a React Developer with 2 years of experience.',
+        'I am a MERN Developer with 2 years of experience.',
         1000,
        
       ]}
